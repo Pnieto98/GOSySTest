@@ -4,4 +4,4 @@ Este repositorio contiene los 4 ejercicios Técnico establecidos en el siguiente
 
 
 ## Autor
-[Pedro Nieto](pedron1998@outlook.com)
+[Pedro Nieto](https://www.linkedin.com/in/pedro-nieto-984361165/)
